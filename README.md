@@ -1,1 +1,1 @@
-# ai_workshop
+#Python and Pytorch Basic notebooks
